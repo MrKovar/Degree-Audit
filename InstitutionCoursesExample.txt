@@ -1,0 +1,121 @@
+Major: Computer Science
+COSC 1322 - Intro to Computer Science
+COSC 1325 - Programming Fundamentals
+COSC 1340 - Advanced Programming Concepts
+COIS 2350 - Applications Programming
+COSC 2370 - Assembly Language
+COIS 3311 - Database Management Systems
+COSC 3330 - Fundamentals of Networking
+COSC 3360 - Data Structures
+COSC 4310 - Organization of Programming Languages
+COSC 4340 - Operating Systems
+COIS 4350 - System Analysis Design
+COSC 4360 - Software Engineering
+Pick 2 26
+COIS 3320 - Internet Programming
+COIS 3380 - Management Information Systems
+COIS 3399 - Special Topics
+COIS 4388 - Internship in CIS
+COIS 4395 - Independent Studies
+COIS 4399 - Special Topics
+CIUS 4395 - Independent Study
+COIS 4499 - Special Topics
+COSC 3315 - Information and Communication
+COSC 3395 - Independent Study
+COSC 3399 - Special Topics
+COSC 4388 - Internship in CS
+COSC 4395 - Independent Studies
+COSC 4396 - Honor's Tutorial
+COSC 4397 - Honor's Research
+COSC 4399 - Special Topics
+COSC 4495 - Independent Study
+COSC 4496 - Honors Tutorial
+COSC 4496 - Honor's Thesis
+ITEC 3310 - Information Security
+ITEC 3320 - System Administration
+ITEC 3399 - Special Topics
+ITEC 4388 - Internship in IT
+ITEC 4395 - Special Topics
+ITEC 4396 - Honors Tutorial
+ITEC 4497 - Honors Thesis
+MATH 2340 - Linear Algebra
+MATH 2341 - Calculus I
+MATH 3351 - Statistics
+MATH 4331 - Numerical Analysis
+
+Major: Mathematics
+MATH 2315 - Discrete Mathematics
+MATH 2341 - Calculus I
+MATH 2322 - Calculus II
+MATH 2340 - Linear Algebra
+MATH 3302 - Intermediate Analysis
+Pick 1 2
+MATH 3301 - Multivariable Calculus
+MATH 3341 - ODE
+Pick 3 4
+MATH 4301 - Advanced Analysis
+MATH 4302 - Advanced Analysis II
+MATH 4321 - Abstract Algebra
+MATH 4322 - Abstract Algebra II
+Pick 3 14
+MATH 4399 - Special Topics
+MATH 4399 - Special Topics
+MATH 3301 - Multivariable Calculus
+MATH 3321 - College Geometry
+MATH 3341 - ODE
+MATH 3351 - Statistics
+MATH 4195 - Independent Studies
+MATH 4295 - Independent Studies
+MATH 4302 - Advanced Analysis II
+MATH 4322 - Abstract Algebra II
+MATH 4331 - Numerical Analysis
+MATH 4395 - Independent Studies
+MATH 4399 - Special Topics
+MATH 4495 - Independent Study
+
+Major: Political Science
+POSC 1310 - Introduction to Politics
+POSC 2310 - American National Government
+POSC 2340 - Comparative Politics
+POSC 2345 - International Relations
+POSC 3360 - Modern Political Philosophy
+Pick 3 16
+POSC 2320 - Texas Politics
+POSC 234A - Politics Outside the Box
+POSC 2350 - Contemporary Global Issue
+POSC 2399 - Special Topics
+POSC 3305 - Campaigns & Elections
+POSC 3310 - Political/Cultural Geography
+POSC 334A - Politics Outside the Box
+POSC 334B - Politics Outside the Box
+POSC 334C - Politics Outside the Box
+POSC 334D - Politics Outside the Box
+POSC 334E - Politics Outside the Box
+POSC 334F - Politics Outside the Box
+POSC 3365 - International Org
+POSC 3375 - Model United Nations
+POSC 3397 - Honors Thesis
+POSC 3399 - Special Topics
+Pick 3 17
+POSC 4399 - Special Topics
+POSC 4330 - Congress
+POSC 4335 - Presidency
+POSC 4340 - American Foreign Policy
+POSC 4350 - Supreme Court/Constitutio
+POSC 4360 - International Political E
+POSC 4365 - Pol Chng/Mvmnt
+POSC 4388 - Internship
+POSC 4395 - Independent Study
+POSC 4396 - Honors Tutorial
+POSC 4397 - Senior Thesis
+POSC 4399 - Special Topics
+POSC 4399 - US National Security
+POSC 4495 - Independent Study
+POSC 4496 - Honors Tutorial
+POSC 4497 - Senior Thesis
+POSC 4499 - Special Topics
+
+Minor: Extrapolated Science
+ECST 2010
+ECST 2011
+ECST 3011
