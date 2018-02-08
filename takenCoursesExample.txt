@@ -1,0 +1,30 @@
+COSC 1322 - Intro to Computer Science
+COSC 1325 - Programming Fundamentals
+COSC 1340 - Advanced Programming Concepts
+COIS 2350 - Applications Programming
+COSC 2370 - Assembly Language
+COIS 3311 - Database Management Systems
+COSC 3330 - Fundamentals of Networking
+COSC 3360 - Data Structures
+COIS 4350 - System Analysis Design
+ITEC 3320 - System Administration
+MATH 2340 - Linear Algebra
+MATH 2341 - Calculus I
+MATH 2315 - Discrete Mathematics
+MATH 2322 - Calculus II
+MATH 3341 - ODE
+POSC 1310 - Introduction to Politics
+POSC 2310 - American National Government
+POSC 2340 - Comparative Politics
+POSC 334C - Politics Outside the Box
+POSC 2350 - Contemporary Global Issue
+POSC 4330 - Congress
+POSC 4350 - Supreme Court/Constitutio
+POSC 4399 - US National Security
+SRLD 1300 - Ethics
+ENGL 1310 - Composition and Rhetoric
+ENGL 1320 - Composition and Literature
+RELI 1330 - Introduction to Christianity
+FNAR 2310 - Survey of Fine Arts
+HIST 2310 - United States History to 1877
+HFIT 1210 - Fitness for Living
